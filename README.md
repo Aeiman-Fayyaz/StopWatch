@@ -1,16 +1,39 @@
-# React + Vite
+# Stop Watch 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<img width="1600" height="746" alt="image" src="https://github.com/user-attachments/assets/dadfcfe5-7cee-4a27-bae6-e6ebd9bf2cf4" />
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Project Overview
 
-## React Compiler
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+A modern, responsive stopwatch application built with React, Tailwind CSS, and AOS animations. Features a sleek dark theme with gradient effects, smooth animations, and full responsiveness across all devices.
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## ✨ Features
+
+## 🎯 Core Functionality
+
+- Precise Time Tracking: Hours, minutes, seconds with leading zeros
+- Intuitive Controls: Play/Pause/Stop buttons with visual feedback
+- Time Format: 00:00:00 format for easy reading
+- Real-time Updates: Updates every second when running
+
+
+## 🎨 UI/UX Features
+
+- Dark Theme: Modern gradient backgrounds
+- Glass Morphism: Frosted glass effects throughout
+
+## Animations:
+
+- AOS scroll animations
+- Smooth transitions
+
+
+## Contact Info
+
+- Email : aeimanfayyaz2002@gmail.com
+
+Mobile: Single column, compact design
+
+Tablet: Two-column grids
